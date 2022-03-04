@@ -1,22 +1,19 @@
 # Project Title
-**Hello World**
+**Here is the Project Title**
 
 ## Description
-This is a Practice Repository
+Short description on the practice file
 
-## About Myself
-*Hello!*
+## How to Run Program
+Here is where you describe how to run the *program*
 
--Tippie College of Business, The University of Iowa
+## Files Used
+Files used is this section
 
--Accounting; Business Analytics & Information Systems
+## Additional Documentation
+1. Document 1
+2. Document 2
+3. Document 3
 
--Graduating May 2024
-
--Involved in Alpha Kappa Psi Professional Business Fraternity, Tippie Real Estate Club, and Tippie Business Honor Society
-
--I like playing cards and watching sports
-
--My favorite food is Pizza
-
--My favorite sports teams are the Miami Heat and the Indianapolis Colts
+## Version Summary
+Version summary used
